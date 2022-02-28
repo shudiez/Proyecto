@@ -15,6 +15,7 @@ import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
     HeaderComponent,
     ArgProgLogoComponent,
     SocialComponent,
+    BannerComponent,
     AcercaDeComponent
   ],
   imports: [
